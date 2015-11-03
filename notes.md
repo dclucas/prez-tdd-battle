@@ -114,8 +114,15 @@ Rebuttals:
 2. This assumption has been proved true time and time again. There may be complex problems to test, and even cases where there is not enough ROI. But just generally dropping the approach is downright lazy thinking
 3. By rejecting the test-first approach, you lose a lot of benefits (see arguments 2-5)
 4. Multiple:
-	a) there may be cases where this is true, but you would be surprised at the frequency in which this is a failed assumption. You have to first try, truly try, before you dismiss TDD as fruitless. 
-	b) also, 
+	a) testless code is even more expense to maintain
+	b) there may be cases where this is true, but you would be surprised at the frequency in which this is a failed assumption. You have to first try, truly try, before you dismiss TDD as fruitless. 
+	c) also, even if parts of a system (or even a full system) are not TDD'able, the notion of dropping the practice altogether is a logical fallacy (throwing the baby with the water)
+5. Oh, boy. In summary, TDD is not a silver bullet. The arguments in this line are like saying "medicine is not that great, since people still die of illnesses"
+	a) it will be even less so without TDD
+	b) fallacy: lack of coverage does not speak against TDD. Actually, these cases are interesting cases for automation. Besides, TDD should be complemented with other forms of testing
+	c) no TDD does not guarantee that either. And you can use ATDD to cover that ground
+	d) still better than no TDD :)
+	e) same way as any practice, when incorrectly put in place, may cause it
 
 #### TDD RIP advocate
 
@@ -126,9 +133,9 @@ Attacks:
 3. No TDD does not mean not testing. It means rejecting the test-first approach
 4. Tests are be too expensive to create and maintain
 5. Automated tests are still no warranty of code quality. Test may exist and pass and still:
-	a) code may not be maitainable
+	a) code may not be maintainable
 	b) code may have issues in hard-to-test areas such as perf, scalability, resillience, security, etc
-	c) code may not implement what the user warranty
+	c) code may not implement what the user wants
 	d) code may be failing to test relevant scenarios
 	e) bad test code may generate a false sense of security in the team
 
@@ -141,3 +148,10 @@ Rebuttals:
 3. You can also generate test technical debt with TDD. Developers can easily cheat (see this github repo: url to that test passer in github) and generate code that is as bad as (or worse than) no test as all
 4. You can implement quick, safe cycles by implementing the tests after the code is done. It should take the same time, or less (after all, you did not spend time waiting for failed tests). If you are not doing automated tests at all, there are other processes (code analysis, peer reviews) that can check code quality. And these processes are required even with TDD in place
 5. 
+
+Reference material
+------------------
+
+* DHH, Fowler, Beck discussion on TDD:
+* Mocks are not stubs:
+* 
