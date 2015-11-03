@@ -1,0 +1,20 @@
+{
+  "name": "prez-tddDuel",
+  "version": "0.1.0",
+  "description": "Speaker notes for our TDD duel -- insider info on what we intend to debate over :)",
+  "main": "notes.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TDD",
+    "XPConf",
+    "BDD",
+    "mocking",
+    "e2e",
+    "testing",
+    "ATDD"
+  ],
+  "author": "diogo.lucas@gmail.com, dionatan.moura@gmail.com",
+  "license": "CC"
+}
