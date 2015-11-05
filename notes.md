@@ -154,4 +154,6 @@ Reference material
 
 * DHH, Fowler, Beck discussion on TDD:
 * Mocks are not stubs:
+* Failed test cheating script:
+* Exploratory testing patterns:
 * 
