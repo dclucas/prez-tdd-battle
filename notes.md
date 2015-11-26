@@ -149,10 +149,24 @@ Rebuttals:
 4. You can implement quick, safe cycles by implementing the tests after the code is done. It should take the same time, or less (after all, you did not spend time waiting for failed tests). If you are not doing automated tests at all, there are other processes (code analysis, peer reviews) that can check code quality. And these processes are required even with TDD in place
 5. 
 
+
+### Team work with TDD VS without TDD
+http://blog.cleancoder.com/uncle-bob/2014/06/17/IsTddDeadFinalThoughts.html
+
+
+### Code design and quality (clean code, refactoring, design patterns) with TDD VS without TDD
+
+
+### Professionalism with TDD VS without TDD
+http://blog.8thlight.com/uncle-bob/2014/05/02/ProfessionalismAndTDD.html
+
+
+
+
 Reference material
 ------------------
 
-* DHH, Fowler, Beck discussion on TDD:
+* DHH, Fowler, Beck discussion on TDD: https://www.youtube.com/watch?v=z9quxZsLcfo
 * Mocks are not stubs:
 * Failed test cheating script:
 * Exploratory testing patterns:
