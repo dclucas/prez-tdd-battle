@@ -151,7 +151,18 @@ Rebuttals:
 
 
 ### Team work with TDD VS without TDD
-http://blog.cleancoder.com/uncle-bob/2014/06/17/IsTddDeadFinalThoughts.html
+
+#### Team work with TDD advocate
+
+1. Most software is built with teams;
+2. TDD is a team discipline, not simply an individual discipline;
+3. Creating TDD and non-TDD factions (teams) within organizations;
+2. High code coverage;
+3. High feedback;
+4. It helps pair programming;
+5. Avoid break the build;
+6. Cheap maintenance;
+7. Good Design.
 
 
 ### Code design and quality (clean code, refactoring, design patterns) with TDD VS without TDD
@@ -167,6 +178,7 @@ Reference material
 ------------------
 
 * DHH, Fowler, Beck discussion on TDD: https://www.youtube.com/watch?v=z9quxZsLcfo
+* Team work with TDD: http://blog.cleancoder.com/uncle-bob/2014/06/17/IsTddDeadFinalThoughts.html
 * Mocks are not stubs:
 * Failed test cheating script:
 * Exploratory testing patterns:
