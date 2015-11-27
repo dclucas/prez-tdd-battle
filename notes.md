@@ -171,6 +171,13 @@ Rebuttals:
 ### Professionalism with TDD VS without TDD
 http://blog.8thlight.com/uncle-bob/2014/05/02/ProfessionalismAndTDD.html
 
+1. TDD plays a significant role in professional behavior.
+2. "Clean hands", "wash your hands". (Ignaz Semmelweis who in 1847 achieved a six-fold drop in his maternity ward’s mortality rate by simply having doctors wash their hands before examining pregnant women. Semmelwies tried to convince his peers to adopt hand-washing as a discipline. They resisted -- for over 60 years. The reasons for their resistance sound much like the articles we've seen of late claiming that TDD is dead. [...] Were these doctors unprofessional? Of course not! They were doing the best they could with what they knew.)
+3. "Something must change ... or we are headed for a catastrophe of existential magnitude".
+
+1. TDD is not a prerequisite to professionalism.
+2. 
+
 
 
 
