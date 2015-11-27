@@ -169,10 +169,9 @@ Rebuttals:
 
 
 ### Professionalism with TDD VS without TDD
-http://blog.8thlight.com/uncle-bob/2014/05/02/ProfessionalismAndTDD.html
 
 1. TDD plays a significant role in professional behavior.
-2. "Clean hands", "wash your hands". (Ignaz Semmelweis who in 1847 achieved a six-fold drop in his maternity ward’s mortality rate by simply having doctors wash their hands before examining pregnant women. Semmelwies tried to convince his peers to adopt hand-washing as a discipline. They resisted -- for over 60 years. The reasons for their resistance sound much like the articles we've seen of late claiming that TDD is dead. [...] Were these doctors unprofessional? Of course not! They were doing the best they could with what they knew.)
+2. "Clean hands", "wash your hands". (Ignaz Semmelweis who in 1847 achieved a six-fold drop in his maternity ward’s mortality rate by simply having doctors wash their hands before examining pregnant women. Semmelwies tried to convince his peers to adopt hand-washing as a discipline. They resisted -- for over 60 years. The reasons for their resistance sound much like the articles we've seen of late claiming that TDD is dead. [...] Were these doctors unprofessional? Of course not! They were doing the best they could with what they knew. [Professionalism and TDD]); (He was mocked by fellow doctors, but he could not prove his findings, because bacteria had not been discovered yet. In 1870, Robert Koch proved that bacteria can cause disease. People such as Louis Pasteur proved what is known as the germ theory of disease only after Semmelweis' death. [https://simple.wikipedia.org/wiki/Ignaz_Semmelweis]);
 3. "Something must change ... or we are headed for a catastrophe of existential magnitude".
 
 1. TDD is not a prerequisite to professionalism.
@@ -185,8 +184,9 @@ Reference material
 ------------------
 
 * DHH, Fowler, Beck discussion on TDD: https://www.youtube.com/watch?v=z9quxZsLcfo
-* Team work with TDD: http://blog.cleancoder.com/uncle-bob/2014/06/17/IsTddDeadFinalThoughts.html
 * Mocks are not stubs:
+* Team work with TDD: http://blog.cleancoder.com/uncle-bob/2014/06/17/IsTddDeadFinalThoughts.html
+* Professionalism and TDD: http://blog.8thlight.com/uncle-bob/2014/05/02/ProfessionalismAndTDD.html
 * Failed test cheating script:
 * Exploratory testing patterns:
 * 
